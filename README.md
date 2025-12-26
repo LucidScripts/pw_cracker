@@ -45,6 +45,7 @@ It also serves as a compact example of applying security concepts in code.
 
 ## Project Structure
 
+pw_cracker/
 ├── cracker.py
 ├── hashes.txt
 ├── wordlist.txt
