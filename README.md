@@ -51,7 +51,7 @@ pw_cracker/
 ├── hashes.txt
 ├── wordlist.txt
 └── README.md
-
+```text
 - `cracker.py` – core program logic
 - `hashes.txt` – SHA-256 hashes to evaluate (one per line)
 - `wordlist.txt` – base words used to generate guesses
